@@ -1,0 +1,17 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav li {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav a {
+    margin-right: 0.5rem;
+}
